@@ -1,0 +1,5 @@
+>[BonoBus Conecta][archivo1]
+   |[Estancia][archivo2]
+   |[Colectivo][archivo3]
+   |[Propuesta][archivo4]
+   |[Billete][archivo5]
